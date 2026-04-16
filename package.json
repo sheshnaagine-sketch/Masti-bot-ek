@@ -1,0 +1,16 @@
+{
+  "name": "fun-messenger-bot",
+  "version": "1.0.0",
+  "description": "Fun WebSocket bot with jokes and shayari",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["bot", "websocket", "chat", "fun"],
+  "author": "rkraja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
